@@ -1,4 +1,4 @@
-(/images/logo_cnp.svg "Titre de l'image")
+[](/images/logo_cnp.svg "Titre de l'image")
 
 # Différents Reports
 
